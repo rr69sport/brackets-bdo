@@ -82,9 +82,16 @@ body {
 
 .brackets {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   gap: var(--gap);
   margin: 0 auto;
+}
+
+@media screen and (min-width: 450px) {
+  .brackets {
+    flex-direction: row;
+  }
 }
 
 .table {
