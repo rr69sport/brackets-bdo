@@ -1,2 +1,5 @@
-# brackets-bdo
-Brackets de Black Desert Online
+# Brackets Black Deser Online
+
+Brackets de AP y DB
+
+[Screenshot]('./screenshots/bracketsbdo.png')
